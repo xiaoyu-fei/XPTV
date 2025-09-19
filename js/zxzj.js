@@ -4,7 +4,7 @@ const UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (
 const appConfig = {
   ver: 1,
   title: "在线之家",
-  site: "https://www.zxzja.com",
+  site: "https://www.zxzjhd.com",
   tabs: [{
     name: '首页',
     ext: {
