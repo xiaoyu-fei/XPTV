@@ -1,9 +1,9 @@
 # > Shadowrocket
-# RULE-SET,https://raw.githubusercontent.com/fangkuia/XPTV/main/X/loon%26surge%26shadowrocket.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/xiaoyu-fei/XPTV/main/X/loon%26surge%26shadowrocket.list,DIRECT
 # > Loon
-# https://raw.githubusercontent.com/fangkuia/XPTV/main/X/loon%26surge%26shadowrocket.list, policy=DIRECT, tag=XPTV, enabled=true
+# https://raw.githubusercontent.com/xiaoyu-fei/XPTV/main/X/loon%26surge%26shadowrocket.list, policy=DIRECT, tag=XPTV, enabled=true
 # > Surge
-# RULE-SET,https://raw.githubusercontent.com/fangkuia/XPTV/main/X/loon%26surge%26shadowrocket.list,DIRECT
+# RULE-SET,https://raw.githubusercontent.com/xiaoyu-fei/XPTV/main/X/loon%26surge%26shadowrocket.list,DIRECT
 
 #玩偶哥哥（直连）
 DOMAIN-KEYWORD, wogg

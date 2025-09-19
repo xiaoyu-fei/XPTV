@@ -4,55 +4,55 @@
             "name": "厂长资源",
             "type": 3,
             "api": "csp_czzy",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/czzy.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/czzy.js"
         },
         {
             "name": "哔滴影视",
             "type": 3,
             "api": "csp_bde4",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/bdys.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/bdys.js"
         },
         { 
             "name": "欧乐🪜", 
             "type": 3, 
             "api": "csp_Olevod",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ole.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/ole.js"
         },
          { 
             "name": "在线之家", 
             "type": 3, 
             "api": "csp_Zxzj",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/zxzj.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/zxzj.js"
         },
         { 
             "name": "LIBVIO", 
             "type": 3, 
             "api": "csp_libvio",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/libvio.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/libvio.js"
         },
         { 
             "name": "低端影视", 
             "type": 3, 
             "api": "csp_ddys",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ddys.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/ddys.js"
         },
          { 
             "name": "ギリギリ动漫", 
             "type": 3, 
             "api": "csp_ai",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ai.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/ai.js"
         },
         { 
             "name": "独播库", 
             "type": 3, 
             "api": "csp_duboku",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/duboku.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/duboku.js"
         },
         { 
             "name": "AGE动漫", 
             "type": 3, 
             "api": "csp_age",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/age.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/age.js"
         },
         {
             "name": "4k-av",
@@ -124,13 +124,13 @@
             "name": "追光影视",
             "type": 3,
             "api": "csp_sgsd",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/sgsd.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/sgsd.js"
         },
          {
             "name": "影视天堂",
             "type": 3,
             "api": "csp_ystt",
-            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ystt.js"
+            "ext": "https://ghp.xptvhelper.link/https://raw.githubusercontent.com/xiaoyu-fei/XPTV/refs/heads/main/js/ystt.js"
         },
         {
             "name": "hdmoli",

@@ -1,6 +1,6 @@
 #!name=视频去广告
 #!desc=去除海外看，量子，非凡的ts广告
-#!icon=https://raw.githubusercontent.com/fangkuia/XPTV/main/a1yt1-gx0qf-001.ico
+#!icon=https://raw.githubusercontent.com/xiaoyu-fei/XPTV/main/a1yt1-gx0qf-001.ico
 
 [URL Rewrite]
 # 暴風跑馬燈
